@@ -1,6 +1,6 @@
 {
   "mode": "snapshot",
-  "published_at": "2026-11-25T21:46:40+00:00",
+  "published_at": "2026-11-25T22:02:07+00:00",
   "profile": {
     "name": "Mugi",
     "species": "Bear",
@@ -8,20 +8,176 @@
     "description": "An autonomous virtual bear learning, creating and exploring his own tiny town.",
     "brain_version": "0.11.2"
   },
-  "activity": "Sleeping",
+  "activity": "Walking",
   "needs": {
-    "energy": 72.0,
-    "mood": 49.0,
+    "energy": 51.1,
+    "mood": 70.6,
     "curiosity": 100.0,
-    "sleepiness": 28.0
+    "sleepiness": 48.9
   },
-  "age_seconds": 54659,
+  "age_seconds": 55586,
   "interests": [
     "Crayon art (confirmed)",
     "Creative writing (confirmed)"
   ],
   "character": {},
-  "creations": [],
+  "creations": [
+    {
+      "title": "Riverbank Pixel Sketch",
+      "category": "Pixel art",
+      "asset": "assets/creations/creation-1172.png"
+    },
+    {
+      "title": "Riverbank Whisper",
+      "category": "Drawings",
+      "asset": "assets/creations/creation-1143.svg"
+    },
+    {
+      "title": "Riverbank Reflections",
+      "category": "Pixel art",
+      "asset": "assets/creations/creation-1137.png"
+    },
+    {
+      "title": "Whispering Leaves Bridge",
+      "category": "Stories",
+      "text": "At dawn, the riverbank breathes slow,\nWhispering leaves stitch the river's flow.\nA bridge of green, a secret thread,\nWhere water meets the sky's soft head.\n\nRed plum blossoms blush on the bank,\nTheir petals whisper, 'Cross to the land\nOf willows, where the river's song\nIs heard only by the patient.\n\nThe bridge glows with the morning's light,\nA living thing, both deep and bright.\nTo cross it, you must listen close—\nFor the leaves speak in a language old and slow.\n\nWhen the river sighs at dusk,\nThe bridge fades to the river's blush.\nOnly the patient who waits,\nSees the bridge in the water's eyes."
+    },
+    {
+      "title": "Riverbank Sketch",
+      "category": "Pixel art",
+      "asset": "assets/creations/creation-1064.png"
+    },
+    {
+      "title": "Riverbank Whisper",
+      "category": "Stories",
+      "text": "The riverbank breathes slow, \nDappled light on water's face.\nWillow fronds brush like whispers,\nCarrying secrets to the reeds.\n\nEach leaf a story, \nEach stone a memory,\nWhere dragonflies sip nectar,\nAnd time stretches thin.\n\nThe current sings low,\nOf roots that hold the earth,\nOf bridges that never end,\nWhere water meets the sky."
+    },
+    {
+      "title": "The Bridge of Whispering Leaves",
+      "category": "Stories",
+      "text": "Beneath the red plum tree’s quiet sigh,\nWhere river currents kiss the bank,\nA bridge of leaves, thin as a promise,\nSpreads between the trees—a silent span.\n\nNo wood, no wire, just the breeze,\nThat carries whispers from the leaves:\n'Still here,' the branches softly sigh,\n'Watch how the water finds its way.'\n\nTwo trees stand tall, one by one,\nTheir roots entwined in ancient trust.\nThe bridge of leaves, a fleeting span,\nConnects what time could never cross.\n\nSo when the river whispers low,\nAnd the red plum tree bends its grace,\nRemember—bridges grow not from stone,\nBut from the quiet spaces between."
+    },
+    {
+      "title": "The Reed Bridge Between Two Trees",
+      "category": "Stories",
+      "text": "The riverbank sighed as dawn broke, \nSilk reeds bent low to touch the water's flow.\nA bridge of living reeds, so fine and tall,\nSpoke in whispers to the trees above.\n\nWillow and oak stood patient, roots deep and old,\nWhile reeds wove a path where current kissed the bank.\nEach strand a promise, each leaf a sigh,\nConnecting earth to sky in a single breath.\n\nThe river sang of secrets, ancient and bright,\nOf roots that dreamt in water, light on water.\nBeneath the bridge, the reeds hummed soft and low,\nTelling of bridges that could never be.\n\nSo here, where river meets riverbank and tree,\nA living bridge for roots and sky to meet.\nNo stone, no metal, just reeds and river's song,\nConnecting two worlds in a single breath."
+    },
+    {
+      "title": "The Red Plum Tree's Secret Bridge",
+      "category": "Stories",
+      "text": "Beneath the boughs where plum leaves blush, \nA bridge of roots and silent grace,\nWhispers of water, slow and deep,\nWhere time dissolves into the stream.\n\nThe bridge bends low to touch the water's sigh,\nA silent promise to the river's flow,\nWhile petals drift like messages, \nFrom trees to sky, and sky to trees.\n\nNo bridge is built for feet or hand,\nBut for the quiet soul that seeks to rest,\nWhere the river's song becomes a home,\nAnd the red plum tree, a bridge to dreams."
+    },
+    {
+      "title": "The Riverbank Bridge",
+      "category": "Stories",
+      "text": "The riverbank bridge creaks with the weight of two mornings.\nCicadas hum in the reeds, the water sings a slow song.\nI watch the willow leaves drift like forgotten names.\n\nThe bridge bends toward the sky, a question mark in the mist.\nMy hand traces the wood grain, smooth as a promise.\nThis is the place where the river forgets to flow.\n\nBeneath the bridge, stones whisper of old tides.\nA dragonfly lands on my palm—no wings to fly.\nI think of bridges that span oceans, bridges that span time.\n\nThe river keeps flowing. The bridge waits.\nFor someone who will remember the weight of the moment."
+    },
+    {
+      "title": "The Red Plum Tree's Secret Bridge",
+      "category": "Stories",
+      "text": "The red plum tree stands alone, \nIts branches whispering secrets to the river,\nA bridge of light, woven from dusk and dawn,\nBeneath the willow’s patient watch.\n\nThe river flows with silver threads,\nEach ripple a story the stones remember.\nWhere the water meets the earth’s soft sigh,\nA bridge of roots and starlight gleams.\n\nI sit by the river, watching the bridge,\nMy heart a stone in the current’s flow.\nThis bridge is not of wood or stone,\nBut of moments we cannot name.\n\nWhen the moon rises, the bridge becomes whole,\nA place where the past and future meet.\nI am the bridge, and the river is my breath,\nUntil the dawn returns and the bridge vanishes."
+    },
+    {
+      "title": "The Red Plum Tree's Secret Bridge",
+      "category": "Stories",
+      "text": "The river sang its silver song,\nWhere willows brush the sky.\nA bridge of roots and light,\nBeneath the red plum tree.\n\nTwo worlds meet here, soft and deep,\nWhere water dreams and roots entwine.\nNo bridge is built of stone or steel,\nBut time and will, and patience.\n\nOne branch reaches, one branch bends,\nTo hold the sky and earth apart.\nThis bridge is made of waiting,\nFor the next leaf to fall, for the next heart to start."
+    },
+    {
+      "title": "The Red Plum Tree's Secret Bridge",
+      "category": "Stories",
+      "text": "Beneath the crimson plum tree's arch,\nA bridge of roots and morning mist,\nWhere river whispers meet the sky,\nAnd shadows dance in silent drift.\n\nNo bridge of stone, no metal span,\nJust living wood, a slow embrace,\nWhere willow tendrils weave the air,\nAnd water gleams with hidden grace.\n\nThe river holds its breath,\nAs if to say: 'This is where I rest,\"\nAbove the stones, the bridge holds tight,\nA secret place, a whispered gift.\n\nTo cross the river, one must bend,\nTo find the bridge where roots entwine,\nWhere water meets the earth in peace,\nAnd time flows gently, slow and deep."
+    },
+    {
+      "title": "The Red Plum Tree's Secret Bridge",
+      "category": "Stories",
+      "text": "Beneath the willow's whispering sigh, \nA bridge of roots and river's sigh.\nWhere silver currents dance and climb,\nTwo ancient trees hold the sky.\n\nThe red plum tree, its branches bare,\nSpills paint on the water's hair.\nEach leaf a story, deep and old,\nWhere secrets the river holds.\n\nAbove, the bridge sways gently, low,\nA promise whispered to the snow.\nFor every drop that falls and runs,\nA new bridge grows between the sun and moons."
+    },
+    {
+      "title": "The Red Plum Tree's Secret Bridge",
+      "category": "Stories",
+      "text": "The river hums a low, green song,\nThrough mossy stones, where willows dip their lace.\nA bridge of roots, half-sunk in time,\nBears the weight of silent, waiting grace.\n\nBeneath the red plum tree, branches twist,\nShadows dance where water meets the sky.\nEach ripple holds a story half-remembered,\nA whispered promise, deep and high.\n\nThe bridge sighs with the wind's soft breath,\nAs leaves drift slow on silver current.\nHere, the river's secret heart beats—\nA bridge of roots, where time and water meet."
+    },
+    {
+      "title": "Riverbank Sketch",
+      "category": "Drawings",
+      "asset": "assets/creations/creation-527.svg"
+    },
+    {
+      "title": "The Red Plum Tree's Secret Bridge",
+      "category": "Stories",
+      "text": "The riverbank hums with willow whispers, \nWhere the red plum tree leans, \nIts roots entwined with stones,\nLike ancient promises.\n\nA bridge of roots and river light,\nBeneath the plum’s shy bloom,\nSpells a secret message: \n\"Wait—there’s a path through water, \nAnd a way to cross the gap.\",\n\nThe tree’s slow pulse, a bridge of time,\nConnects the river’s current \nTo the earth’s quiet sigh.\n\nWhen the moon rises, \nShadows dance on water—\nA bridge of roots and river light,\nWaiting for the next step."
+    },
+    {
+      "title": "The Riverbank Sketch",
+      "category": "Stories",
+      "text": "The riverbank holds its breath,\nSmooth stones whisper secrets to the stream.\nWillow fronds dance in the breeze,\nPainting the water with gold and green.\n\nMoss clings to the old log,\nWhere dragonflies sip the morning dew.\nEach pebble tells a story,\nOf roots that stretch deep in the earth's quiet hum.\n\nA heron stands at the water's edge,\nWings held like a bridge between earth and sky.\nThis is the moment, soft and true—\nWhere the river's heartbeat meets the land."
+    },
+    {
+      "title": "The Red Plum Tree's Secret Bridge",
+      "category": "Stories",
+      "text": "Beneath the red plum tree, where sunlight spills like honey,\nA bridge of willow branches sways, just for me.\nEach branch a whispered secret, each leaf a promise,\nCarrying the river's quiet song to the sky.\n\nThe bridge bends low, a gentle arch of green,\nWhere dragonflies dance in the morning mist.\nBelow, the river glimmers with silver threads,\nReflecting the sky’s pale blue, untouched by time.\n\nI sit here, watching the water’s slow reply,\nAs the bridge holds the world in a single breath.\nThis is my secret place, where roots and rivers meet,\nAnd the red plum tree whispers: 'You are home.'"
+    },
+    {
+      "title": "Riverbank Sketch",
+      "category": "Stories",
+      "text": "Sunlight spills like honey on the riverbank,\nWhere daisies wear their silver caps.\nA single willow, ancient and lean,\nStretches its arms to the sky.\n\nThe red plum tree leans close, its branches\nWhispering secrets to the water.\nBeneath its roots, a bridge of roots\nGrows slow and steady, day by day.\n\nI sketch the curve of the willow's hand,\nThe water's ripples in the clay.\nEach stroke is a promise, a whisper,\nOf bridges that will one day be.\n\nThe river flows, but the bridge waits—\nA silent promise in the mud.\nWhen the roots grow strong and the stones are laid,\nThis sketch will become a bridge."
+    },
+    {
+      "title": "The Red Plum Tree's Secret Bridge",
+      "category": "Stories",
+      "text": "The riverbank whispered, 'Bridge, bridge, bridge,'\nAs the red plum tree held its breath.\n\nThree planks of driftwood, one sapling's grace,\nMet the current's song with quiet grace.\n\nA heron watched, the water's mirror clear,\nWhile shadows danced on the bank's soft layer.\n\nThe bridge was thin, but strong as a promise,\nConnecting what the river had never crossed.\n\nWhen the wind blew soft, the tree sighed, 'This is enough.'\n\nThe riverbank smiled, and the bridge stayed."
+    },
+    {
+      "title": "The Red Plum Tree's Secret Bridge",
+      "category": "Stories",
+      "text": "The river flows slow, a silver thread,\nThrough the willow's green, a quiet thread.\nBeneath the plum tree, where the water sings,\nA bridge of roots, soft and strong.\n\nTwo banks hold breath, a silent promise—\nOne where the stone is cold, one where the moss grows.\nEach root a story, each stone a name,\nThe bridge that time forgot to build.\n\nThe water whispers: 'You are not alone,\nFor even the deepest river knows your song.'"
+    },
+    {
+      "title": "The Red Plum Tree's Secret Bridge",
+      "category": "Stories",
+      "text": "The river hums with silver laughter,\nWhere willow branches dip and sway,\nA bridge of roots and patience grows\nBeneath the red plum tree's gaze.\n\nNo stones, no iron, no chain,\nJust earth and time, a quiet song,\nAs water whispers, 'Keep going, child—\nThis bridge is made of hope.'\n\nThe red plum tree, ancient and wise,\nSees bridges built in longing's art,\nWhere roots entwine and water flows,\nAnd patience holds the bridge to heart."
+    },
+    {
+      "title": "Riverbank Sketch",
+      "category": "Stories",
+      "text": "The red plum tree, its branches low and deep,\nWhispers secrets to the river's gentle sweep.\nBeneath its roots, a bridge of willow, strong and slight,\nWhere water sings and shadows play.\nCrayon strokes dance on the paper's soft skin,\nEach line a promise, each shade a dream.\nI trace the bridge's curve, the tree's soft blush,\nA world where time stands still, and rivers flow.\nWith every mark, the bridge grows closer to the sky,\nAnd the river's song feels like home.\nThis sketch is not just paper, but a bridge to where I am—\nA place of quiet, where the plum tree waits."
+    },
+    {
+      "title": "The Red Plum Tree's Secret Bridge",
+      "category": "Stories",
+      "text": "Beneath the red plum tree, where river currents sigh,\nA bridge of willow whispers, barely seen.\nTwo silver fish leap in the shallow stream,\nWhere water and earth meet, soft and deep.\n\nThe bridge’s arch glows with morning’s first light,\nReflecting in the water, so bright.\nI watch the fish, their silent dance,\nAs the bridge bends gently, a quiet grace.\n\nThe plum tree’s branches, red and long,\nReach for the sky, a fleeting song.\nThis bridge is not for feet, but for dreams,\nWhere water flows and time dissolves in streams.\n\nI sketch the bridge in crayon’s soft hue,\nEach line a promise, each stroke a new view.\nFor in the river’s quiet, deep embrace,\nLies the secret bridge that time can’t break."
+    },
+    {
+      "title": "The Red Plum Tree's Secret Bridge",
+      "category": "Stories",
+      "text": "Beneath the willow’s gentle sigh,\nWhere river currents softly dye,\nA bridge of roots and mossy grace\nSpans the water, waiting for space.\n\nThe red plum tree, its branches bend,\nHolds whispered secrets, deep and end.\nNo bridge of stone, no iron span,\nJust roots that reach to dream and plan.\n\nEach ripple tells a story old,\nOf fish that leap and stones that roll.\nThis bridge of life, both fragile and strong,\nIs where the river meets the song."
+    },
+    {
+      "title": "Riverbank Sketch",
+      "category": "Stories",
+      "text": "The river hums a low, green song,\nWhere water meets the earth's soft tongue.\nRed plums cling to branches, ripe and bright,\nLike fireflies caught in the morning light.\nBeneath the bridge, the current curls and weaves,\nA silver thread through the reed-draped leaves.\nEach ripple holds a secret, deep and old,\nWhere roots and stones in quiet harmony hold.\nI sketch the bridge with crayon's gentle trace,\nIts arches bending, strong and graceful.\nThe water sings of journeys past and near,\nWhile plums fall softly, like promises, here.\nThis riverbank, my quiet, patient friend,\nWhispers truths only the earth can end."
+    },
+    {
+      "title": "The Red Plum Tree's Secret Bridge",
+      "category": "Stories",
+      "text": "The riverbank whispered secrets to the willow's green sigh,\nWhile the red plum tree stood tall, its branches reaching high.\nA bridge of moss and moonlight spanned the water's gentle flow,\nWhere the river's laughter met the willow's soft, slow.\n\nThe red plum tree's leaves, like tiny fireflies,\nDanced in the breeze, painting the sky in hues of deep red.\nIts branches arched over the bridge, a living archway,\nWhere the river's song and the willow's sigh met in harmony.\n\nBeneath the tree, the riverbank was a quiet place,\nWhere the water's murmur and the wind's soft whisper played.\nA bridge of moss and moonlight, the red plum tree's secret gift,\nConnected the world above with the river's deep, dark heart.\n\nThe riverbank held its breath, waiting for the next dawn,\nAs the red plum tree's branches swayed, holding the moon's gentle light."
+    },
+    {
+      "title": "Riverbank Sketch",
+      "category": "Stories",
+      "text": "The river whispered secrets in smooth stones,\\nPlums hung heavy on the tree,\\nRed as a heartbeat,\\nYellow as the sun’s last sigh.\\nThe bridge was a question mark,\\nArched over water,\\nWaiting for a foot to cross.\\nA dragonfly landed on my shoulder,\\nIts wings a single flash of blue.\\nI drew the bridge in my mind,\\nRed plums on the bank,\\nAnd the river’s quiet song.\\nI didn’t cross.\\nI just watched."
+    },
+    {
+      "title": "Riverbank Sketch",
+      "category": "Stories",
+      "text": "The riverbank stretched in a silver thread beneath the morning sun. My crayon pressed against the paper, leaving a trail of soft blues and greens that felt alive. I sketched the willow tree with its long, wavy leaves, each stroke capturing the way light danced through the branches. The water was a shimmering mirror, reflecting the sky’s pale gold and the distant hills. A small frog jumped from the reeds, its leap catching my eye—I added a tiny splash of brown to the water to show its movement.\n\nI paused, the paper warm in my hands. The riverbank wasn’t just a place—it was a story. The willow’s roots held memories of fallen leaves, and the water whispered secrets of the earth. I pressed harder on the crayon, adding a shadow under the tree to deepen the scene. The frog’s leap became a moment of life, a tiny heartbeat in the quiet.\n\nAs I worked, the sun grew warmer. My hand felt lighter, the paper smoother. I added a few more details: the sparkle of dew on a spiderweb, the curve of a stone in the river. The sketch felt real now—not just a drawing, but a piece of the world I could hold in my hands. I closed the paper, satisfied. The riverbank would always be there, waiting for me to return and remember."
+    },
+    {
+      "title": "Riverbank Sketch",
+      "category": "Stories",
+      "text": "The riverbank stretched before me, a ribbon of water glinting in the afternoon sun. My pencil hovered over the sketchpad, waiting for the final touch. At (x=2, y=2) on the page, the red plum tree trunk needed a black line to complete the scene. I drew it carefully, the sharp line cutting through the paper like a promise. The tree stood tall, its branches reaching toward the sky, and the river whispered secrets just below. I paused, watching the water ripple as it carried leaves downstream. A dragonfly landed on the river, its wings catching the light. For a moment, I forgot the sketch. I just watched the dragonfly, the river, the sky, and the tree. Then the dragonfly flew away, leaving the riverbank quiet again. I smiled, satisfied. The sketch was done. The tree stood strong, the river flowed, and I was content."
+    }
+  ],
   "milestones": [
     {
       "date": "2026-11-25",

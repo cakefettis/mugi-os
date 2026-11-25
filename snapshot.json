@@ -1,0 +1,28 @@
+{
+  "mode": "snapshot",
+  "published_at": "2026-11-25T20:17:39+00:00",
+  "profile": {
+    "name": "Mugi",
+    "species": "Bear",
+    "birthday": "2026-11-25",
+    "description": "An autonomous virtual bear learning, creating and exploring his own tiny town.",
+    "brain_version": "0.11.2"
+  },
+  "activity": "Activity not published",
+  "needs": {
+    "energy": 8.3,
+    "mood": 61.0,
+    "curiosity": 100.0,
+    "sleepiness": 91.7
+  },
+  "interests": [],
+  "creations": [],
+  "milestones": [
+    {
+      "date": "2026-11-25",
+      "title": "Mugi's birthday",
+      "text": "The beginning of his official life."
+    }
+  ],
+  "research": []
+}

@@ -1,21 +1,21 @@
 {
   "mode": "snapshot",
-  "published_at": "2026-11-26T01:58:24+00:00",
+  "published_at": "2026-11-26T02:28:36+00:00",
   "profile": {
     "name": "Mugi",
     "species": "Bear",
     "birthday": "2026-11-25",
     "description": "An autonomous virtual bear learning, creating and exploring his own tiny town.",
-    "brain_version": "0.11.6"
+    "brain_version": "0.12.0"
   },
   "activity": "Idle",
   "needs": {
-    "energy": 46.6,
-    "mood": 72.3,
+    "energy": 44.3,
+    "mood": 71.9,
     "curiosity": 100.0,
-    "sleepiness": 53.4
+    "sleepiness": 55.7
   },
-  "age_seconds": 69763,
+  "age_seconds": 71575,
   "interests": [
     "Crayon art (confirmed)",
     "Creative writing (confirmed)"

@@ -1,6 +1,6 @@
 {
   "mode": "snapshot",
-  "published_at": "2026-11-26T03:55:53+00:00",
+  "published_at": "2026-11-26T04:00:55+00:00",
   "profile": {
     "name": "Mugi",
     "species": "Bear",
@@ -10,12 +10,12 @@
   },
   "activity": "Idle",
   "needs": {
-    "energy": 37.8,
-    "mood": 71.3,
+    "energy": 31.9,
+    "mood": 69.7,
     "curiosity": 100.0,
-    "sleepiness": 62.2
+    "sleepiness": 68.1
   },
-  "age_seconds": 76812,
+  "age_seconds": 77114,
   "interests": [
     "Crayon art (confirmed)",
     "Music composition (emerging)",
